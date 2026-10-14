@@ -1,1 +1,1 @@
-print("Hello from poll scm after commit")
+print("Hello from gitscm")
