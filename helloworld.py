@@ -1,1 +1,1 @@
-print("Hello from gitscm secret")
+print("Hello from gitscm pipeline")
